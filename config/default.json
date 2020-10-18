@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://betul123:betul123@betulsmongocluster.3wedg.mongodb.net/testDB?retryWrites=true&w=majority",
+  "jwtSecret": "myJWTsecret",
+  "githubClientId": "b708a4ecdcef00560c8a",
+  "githubSecret": "081f32b93669ac7bd46551bd0dd29928b6459380"
+}

@@ -10,3 +10,4 @@ Dependencies
 - npm init (enter the parameters; it will create package.json automatically at the end)
 - npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
 - npm i -D nodemon concurrently 
+so you can run server via 'nodemon server' and it hot-reloads

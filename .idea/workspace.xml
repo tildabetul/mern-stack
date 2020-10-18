@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,13 +23,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d02e05-ad20-4dda-9e3e-afb60c1c7dc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/udemy-mern-stack-front-to-back.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +66,28 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.server" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +96,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602610052884</updated>
-      <workItem from="1602610054732" duration="1440000" />
+      <workItem from="1602610054732" duration="4596000" />
+      <workItem from="1602957937435" duration="20101000" />
+      <workItem from="1603056294481" duration="2896000" />
     </task>
     <servers />
   </component>
@@ -68,5 +115,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="151" y="170" key="#Plugins" timestamp="1603057481754">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="151" y="170" key="#Plugins/-229.-1057.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1603057481754" />
+    <state width="1061" height="270" key="GridCell.Tab.0.bottom" timestamp="1603056867232">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1061" height="270" key="GridCell.Tab.0.bottom/-229.-1057.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1603056867232" />
+    <state width="1061" height="270" key="GridCell.Tab.0.center" timestamp="1603056867231">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1061" height="270" key="GridCell.Tab.0.center/-229.-1057.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1603056867231" />
+    <state width="1061" height="270" key="GridCell.Tab.0.left" timestamp="1603056867231">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1061" height="270" key="GridCell.Tab.0.left/-229.-1057.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1603056867231" />
+    <state width="1061" height="270" key="GridCell.Tab.0.right" timestamp="1603056867232">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state width="1061" height="270" key="GridCell.Tab.0.right/-229.-1057.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1603056867232" />
+    <state x="297" y="277" width="604" height="490" key="find.popup" timestamp="1603056926635">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="297" y="277" width="604" height="490" key="find.popup/-229.-1057.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1603056926635" />
+    <state x="264" y="243" width="670" height="676" key="search.everywhere.popup" timestamp="1603057466722">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="264" y="243" width="670" height="676" key="search.everywhere.popup/-229.-1057.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1603057466722" />
   </component>
 </project>
